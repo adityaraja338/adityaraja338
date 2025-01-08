@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate software engineer with expertise in build
 ### 🔧 **Tech Stack:**  
 **Frontend:**  
 - Angular (12+), RxJS, SCSS, HTML, TypeScript  
-- UI Libraries: Angular Material, Chart.js  
+- UI Libraries: Angular Material, Chart.js, Ant Design, PrimeNG  
 
 **Backend:**  
 - Node.js, Express.js, NestJS, Spring Boot  
