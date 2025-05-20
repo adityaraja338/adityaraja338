@@ -1,5 +1,5 @@
 # Hi there, I'm Aditya Raj Aryan 👋  
-### Full-Stack Developer | Angular Enthusiast | Tech Problem Solver  
+### Full-Stack Developer | Web Enthusiast | Tech Problem Solver  
 
 Welcome to my GitHub! I'm a passionate software engineer with expertise in building scalable, dynamic web applications. My experience spans frontend and backend development, with a strong focus on crafting user-friendly interfaces and robust backend solutions.  
 
@@ -7,8 +7,8 @@ Welcome to my GitHub! I'm a passionate software engineer with expertise in build
 
 ### 🔧 **Tech Stack:**  
 **Frontend:**  
-- Angular (12+), RxJS, SCSS, HTML, TypeScript  
-- UI Libraries: Angular Material, Chart.js, Ant Design, PrimeNG  
+- ReactJS, Angular (14+), RxJS, SCSS, HTML, TypeScript  
+- UI Libraries: Material UI, Chart.js, Ant Design  
 
 **Backend:**  
 - Node.js, Express.js, NestJS, Spring Boot  
@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm a passionate software engineer with expertise in build
 ---
 
 ### 🏆 **Certifications:**  
-- **Top 5% Angular Developer** – Pro5.ai  
+- **Top 5% Web Developer** – Pro5.ai  
 - **Node.js Development** – Udemy  
 - **UX Designing** – Udemy  
 
